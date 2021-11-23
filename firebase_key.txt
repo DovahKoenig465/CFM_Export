@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "madden-franchise-1",
+  "private_key_id": "ddcbd17d98632b766ae0f3b926e5bf9ceb3c4dd8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDH9I9BuKWo7z+2\nbN1wyNyKgI0rlHL21+4DgVxHPMB+6tH/g3qjgfVl4tPPktUEvyZ9EV6PTlKOWMQf\nyfKFKmhfL+z+jyPVkvSI9q+GvCD/xFxe8UReN7cCyayJ0AEMpUD2Y+8ckPqG692V\nBqezF4yodGGMA56lPE74amffuUTbHHhN1OaiEL+uAq3ipqrnDhg+tftteUDDpFPT\nPtvePnCcywLr4N58hkNMHJ6VgLYEvmeOLLCREc41t8w0CqlA28duj59Tg9xfakQr\nMm3nadXCcsq8nVYfZMewUT/QlE+34jJbaV0JTrV9YuQTQagLuCD00DEammhLULMo\nxOznCB37AgMBAAECggEACOrJzg8t/sVXUgteKhQgbGIklDef6OI4UG+0bc4yciEx\nZvO2Gb9HR66V7kEzaW1yNKGnAJJoRsYuo5Gd/yek/+8N4qGqN3FroQVfTo2VQH1r\n9nqhUeeqLGBSEX31OLB7SoGqaDEO+yAJrFu09DJYqNUyhHak3I7pTAAddxy2tWQQ\nxdoy0HuQbgOZoAl7Y2OuQg7QY7J3x7QjJScWJQZq45VPD31vnidbPQPhVoVOmnjS\nsmpxK+63dFLBIVUABI35PbKDz/etI7501qjN4o40L1Jh5r3qHFhkcrkS3SfO+clQ\nu8EsZYW32YU5J5KgdnEqscht8vGD9G3X8Y5BM8/wAQKBgQDs+B6jraj8eayf+zzz\nlzFOdlZK7jUvzdqLwefOzj105iN9S4bWbNXsFpD1R4DkV9swyYqHrRL421oTuX/Z\nGG5VE/M8qCGp9cahugCRSKtogvVitIKayNAa/xm7s2GY99VKQAvBRKIg9qBZctNW\nQqMamRat1TaQ1Ha+ZwuaTwlTIQKBgQDYA3de+439Og5gvRjVBEPigZ95nsgzGw0J\nH2SLET1A6RbwprtHC87ROGz5Ng9A4I7oPHmrmjHsccOMrOzMDQqacPBXPYfSlIkw\nec9cjzQGsOZookf4kig5u7YXp/EvItPtRMZ4nMfnvxMf7eF4O2RXYnVU9gVW8Y4g\nuMWxtkKpmwKBgQCdESzF0sJybne0JoPU9X7yAc/apJ9OS0SzY9gxJFRp2mzljJ0Y\nHVWBwcddPIK7V1xqrvuKSHaNyl6fOlH6ZI4lCC8uIkcF72k0IyRjJ+atRDg/r2Pu\nEnKVoka9Of3TtVmDeIYSGVrZPH82KrzXrR2M8LGukOc1Ag6ez5BKPF7y4QKBgQDK\nWszrVHmZ21X2t43YlwtE16reEql2foPCpP7Z68dW1EPiIj7T+jK++b3T4xl87B/T\nXDuaTnMwDQ5j7OZS7HCfZucuwnxG/1BY8fMXwSq6jeL55/PF3p0CIF8fX/rm7hhb\nb48BE9WMugkfYwdRS0nfNmO1uFYeMWC0NIM1zAg8uwKBgQDMjmnqLRj6UIpfkb8M\nojE2EDN4Vdo9tE+AzOi3dbEO/LDdjLVBp4oZJDB8Hh1k4JCULr2POhbX6bsyfXth\n5JKbVFN5w5NpVkqn51Mku1yYEK4O8SWv3nABkaw7IhDDplLTu2Xg3gY4ktBcG5kE\nW8CZP0YME0Al1wEL0KZ/Pmr0DQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ary3z@madden-franchise-1.iam.gserviceaccount.com",
+  "client_id": "115178823775039317996",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ary3z%40madden-franchise-1.iam.gserviceaccount.com"
+}
